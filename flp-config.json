@@ -1,0 +1,35 @@
+{
+    "application": {
+        "id": "",
+        "title": "opensap.mydecapp.MyDecApp",
+        "description": "Describe  the  status  of  the cloud  application",
+        "type": "SAP_UI5_Component",
+        "componentUrl": "/webapp",
+        "appUrl": "#MyDecApp-Display",
+        "navigationComponentName": "opensap.mydecapp",
+        "intentSemanticObject": "MyDecApp",
+        "intentAction": "Display",
+        "html5ApplicationName": "mydecapp",
+        "HCPParentApplicationName": ""
+    },
+    "assignment": {
+        "groups": [
+            "deec77ab-39af-43f3-8c7f-d84108e388d8-1505380497363"
+        ],
+        "contentPackages": [
+            "b332e5bd-5cd3-4d0e-9355-8ceee202e61b"
+        ],
+        "categories": []
+    },
+    "tile": {
+        "type": "StaticTile",
+        "title": "Digital Clock",
+        "subtitle": "Meter",
+        "searchKeywords": "Digital Clock,Meter",
+        "displayIconUrl": "sap-icon://approvals",
+        "displayInfoText": "",
+        "size": "1x1",
+        "serviceURL": "",
+        "refreshInterval": ""
+    }
+}
